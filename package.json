@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Auto reply bot using whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "alkabos200",
+  "license": "MIT",
+  "dependencies": {
+    "whatsapp-web.js": "^1.21.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
